@@ -1,4 +1,4 @@
-# Welcome to Dre Finance 💵
+# Welcome to Dre Finance (💵,💵)
 
 Welcome to the DRE Protocol Github. Here you’ll find everything you need to know about DRE, including source code, audits and documentation.
 
