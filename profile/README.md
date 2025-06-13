@@ -1,6 +1,6 @@
 # Welcome to Rezerve.Money (💵,💵)
 
-Welcome to the Rezerve money Github. Here you’ll find everything you need to know about RZR, including source code, audits and documentation.
+Welcome to the Rezerve money github. Here you’ll find everything you need to know about RZR, including source code, audits and documentation.
 
 ### Important Links
 
